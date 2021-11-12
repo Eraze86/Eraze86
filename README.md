@@ -1,7 +1,7 @@
 - 👋hello, im eraze86
 - 👀 I’m interested in many things 
 - 🌱 I’m currently learning front end coding
-i love leraning and creating things 
+- I love leraning and creating things 
 
 
 
